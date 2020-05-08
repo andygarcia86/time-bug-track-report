@@ -1,4 +1,11 @@
 # VsCode files
 server/.vs
 
+# Server side
+server/WebServerApp/bin
+server/WebServerApp/obj
+
+# Node modules
+client/node_modules
+
 
