@@ -1,11 +1,11 @@
 # VsCode files
-server/.vs
+/server/.vs
 
 # Server side
-server/WebServerApp/bin
-server/WebServerApp/obj
+/server/WebServerApp/bin
+/server/WebServerApp/obj
 
 # Node modules
-client/node_modules
+/client/node_modules
 
 
