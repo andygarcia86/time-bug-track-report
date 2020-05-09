@@ -2,12 +2,21 @@
 /server/.vs
 
 # Server side
-/server/Domain/bin
-/server/Domain/obj
-/server/WebServerApp/bin
-/server/WebServerApp/obj
+#####################################
+/server/bin
+/server/obj
+
+/server/Web.Api/bin
+/server/Web.Api/obj
+
+/server/Web.Api.Core/bin
+/server/Web.Api.Core/obj
+
+/server/Web.Api.Infrastructure/bin
+/server/Web.Api.Infrastructure/obj
 
 # Node modules
+#####################################
 /client/node_modules
 
 
