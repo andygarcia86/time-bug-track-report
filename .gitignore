@@ -2,6 +2,8 @@
 /server/.vs
 
 # Server side
+/server/Domain/bin
+/server/Domain/obj
 /server/WebServerApp/bin
 /server/WebServerApp/obj
 
