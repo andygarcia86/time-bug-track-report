@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Web.Api.Infrastructure.Data.Entities
+namespace Web.Api.Data.Entities
 {
     class Project
     {

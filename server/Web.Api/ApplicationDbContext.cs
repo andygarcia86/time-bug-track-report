@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Web.Api.Infrastructure.Data.Entities;
+using Web.Api.Data.Entities;
 
 namespace Web.Api
 {

@@ -3,8 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Web.Api.Infrastructure;
-using Web.Api.Infrastructure.Helpers;
+using Web.Api.Helpers;
 
 namespace Web.Api
 {
