@@ -14,6 +14,7 @@
 
 /server/Web.Api.Infrastructure/bin
 /server/Web.Api.Infrastructure/obj
+/server1
 
 # Node modules
 #####################################

@@ -1,8 +1,0 @@
-version: '3'
-
-services:
-  web.api:
-    image: web.api
-    build:
-      context: .
-      dockerfile: Web.Api/Dockerfile
