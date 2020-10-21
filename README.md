@@ -10,5 +10,6 @@ The static demo application is an static application with some basic features of
 
 1. .Net Core
 2. Angular
-3. NPM
-4. MS SQL Server
+3. Vue JS
+4. NPM
+5. MS SQL Server
