@@ -1,0 +1,15 @@
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\TimeBugTracker.csproj.CoreCompileInputs.cache
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\TimeBugTracker.AssemblyInfoInputs.cache
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\TimeBugTracker.AssemblyInfo.cs
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\bin\Debug\netcoreapp2.1\TimeBugTracker.deps.json
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\bin\Debug\netcoreapp2.1\TimeBugTracker.runtimeconfig.json
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\bin\Debug\netcoreapp2.1\TimeBugTracker.runtimeconfig.dev.json
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\bin\Debug\netcoreapp2.1\TimeBugTracker.dll
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\bin\Debug\netcoreapp2.1\TimeBugTracker.pdb
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\TimeBugTracker.csprojAssemblyReference.cache
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\TimeBugTracker.RazorAssemblyInfo.cache
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\TimeBugTracker.RazorAssemblyInfo.cs
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\TimeBugTracker.RazorTargetAssemblyInfo.cache
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\TimeBugTracker.dll
+D:\personal\study\Git-samples\time-bug-track-report\server\TimeBugTracker\obj\Debug\netcoreapp2.1\TimeBugTracker.pdb
