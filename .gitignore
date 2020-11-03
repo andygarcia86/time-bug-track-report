@@ -21,3 +21,5 @@
 /client/node_modules
 
 
+/server/TimeBugTracker/bin
+/server/TimeBugTracker/obj
