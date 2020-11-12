@@ -8,7 +8,8 @@ namespace TimeBugTracker.Tests
         [Fact]
         public void GetTimeTrackTest()
         {
-
+            Assert.True(5 == 5);
+            Assert.True('A' == 'A');
         }
     }
 }
