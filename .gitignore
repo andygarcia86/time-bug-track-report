@@ -23,3 +23,5 @@
 
 /server/TimeBugTracker/bin
 /server/TimeBugTracker/obj
+/server/TimeBugTracker.Tests/obj
+/server/TimeBugTracker.Tests/bin
