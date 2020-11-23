@@ -3,6 +3,7 @@ import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
 import Projects from '../views/Projects.vue';
 import ProjectDetails from '../views/ProjectDetails.vue';
+import NotFound from '../views/NotFound.vue';
 
 Vue.use(VueRouter)
 
@@ -30,6 +31,10 @@ const routes = [{
     {
         path: '/',
         redirect: '/projects'
+    },
+    {
+        path: '*',
+        component: NotFound
     }
 ]
 
