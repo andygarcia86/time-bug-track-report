@@ -6,8 +6,14 @@ namespace TimeBugTracker.Tests
     public class TimeTrackTest
     {
         [Fact]
-        public void GetTimeTrackTest()
+        public void WeekTimeTrackTest()
         {
+            //Arrange
+
+            //Act
+
+            //Assert
+
             Assert.True(5 == 5);
             Assert.True('A' == 'A');
         }

@@ -9,8 +9,8 @@ namespace TimeBugTracker.Entities
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
 
-            //TODO: Read from configuration
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=TimeBugTracker;Trusted_Connection=True;");
+            //TODO: Read from configuration using app settings
+            optionsBuilder.UseSqlServer(@"Server=.\\; Database=TimeBugTracker; Trusted_Connection=True; MultipleActiveResultSets=True;");
             
 
         }
