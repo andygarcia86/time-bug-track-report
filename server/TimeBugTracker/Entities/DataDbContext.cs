@@ -2,7 +2,7 @@
 
 namespace TimeBugTracker.Entities
 {
-    public class TimeBugTrackerDbContext : DbContext
+    public class DataDbContext : DbContext
     {
         public DbSet<Project> Projects { get; set; }
 
