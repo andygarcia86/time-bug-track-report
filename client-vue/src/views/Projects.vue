@@ -1,6 +1,6 @@
 <template>
   <div class="projects">
-    
+    <h1>Projects</h1>
     <div v-for="project in projects" :key="project.id">
       {{ project.id }}
 
@@ -13,14 +13,19 @@
 </template>
 
 <script>
-import { projects } from '../assets/data/projects-fake'
+import axios from 'axios';
 
 export default{
   name: 'Projects',
   data(){
     return {
-      projects,
-    };    
+      projects: [],
+    };
+  },
+  async created(){
+    const result = await axios.get('https://localhost:44325/api/projects');
+    const projects = result.data;
+    this.projects = projects;
   }
 
 };

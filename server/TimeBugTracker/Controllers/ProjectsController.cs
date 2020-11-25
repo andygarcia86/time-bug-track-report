@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
+using TimeBugTracker.Entities;
 
 namespace TimeBugTracker.Controllers
 {
@@ -12,9 +14,16 @@ namespace TimeBugTracker.Controllers
     {
         // GET api/projects
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        [EnableCors("AllowOrigin")]
+        public ActionResult<IEnumerable<Project>> Get()
         {
-            return new string[] { "value1", "value2" };
+            var projects = new List<Project>();
+            projects.Add(new Project { Id=1, Name="Levatas Web site" });
+            projects.Add(new Project { Id=2, Name="Converge" });
+            projects.Add(new Project { Id=3, Name="IBM1585 - Assessment" });
+            projects.Add(new Project { Id=4, Name="IBM1821 - Smart Paper" });
+
+            return projects;
         }
 
         // GET api/projects/5
