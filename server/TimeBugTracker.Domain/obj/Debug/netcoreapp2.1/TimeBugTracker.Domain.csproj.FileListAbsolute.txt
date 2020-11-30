@@ -1,9 +1,0 @@
-C:\andy\git-projects\time-bug-track-report\server\TimeBugTracker.Domain\bin\Debug\netcoreapp2.1\TimeBugTracker.Domain.deps.json
-C:\andy\git-projects\time-bug-track-report\server\TimeBugTracker.Domain\bin\Debug\netcoreapp2.1\TimeBugTracker.Domain.dll
-C:\andy\git-projects\time-bug-track-report\server\TimeBugTracker.Domain\obj\Debug\netcoreapp2.1\TimeBugTracker.Domain.csprojAssemblyReference.cache
-C:\andy\git-projects\time-bug-track-report\server\TimeBugTracker.Domain\obj\Debug\netcoreapp2.1\TimeBugTracker.Domain.csproj.CoreCompileInputs.cache
-C:\andy\git-projects\time-bug-track-report\server\TimeBugTracker.Domain\obj\Debug\netcoreapp2.1\TimeBugTracker.Domain.AssemblyInfoInputs.cache
-C:\andy\git-projects\time-bug-track-report\server\TimeBugTracker.Domain\obj\Debug\netcoreapp2.1\TimeBugTracker.Domain.AssemblyInfo.cs
-C:\andy\git-projects\time-bug-track-report\server\TimeBugTracker.Domain\bin\Debug\netcoreapp2.1\TimeBugTracker.Domain.pdb
-C:\andy\git-projects\time-bug-track-report\server\TimeBugTracker.Domain\obj\Debug\netcoreapp2.1\TimeBugTracker.Domain.dll
-C:\andy\git-projects\time-bug-track-report\server\TimeBugTracker.Domain\obj\Debug\netcoreapp2.1\TimeBugTracker.Domain.pdb
