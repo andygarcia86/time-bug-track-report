@@ -8,7 +8,7 @@ namespace TimeBugTracker.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class TimeTrackController : ControllerBase
     {
         // GET api/values
         [HttpGet]
