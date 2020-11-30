@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Http;
 
 namespace TimeBugTracker.Entities
 {
@@ -6,6 +7,17 @@ namespace TimeBugTracker.Entities
     {
         public DbSet<Project> Projects { get; set; }
 
+        private readonly IHttpContextAccessor _accessor;
+
+        public DataDbContext(DbContextOptions options) : base(options)
+        {
+
+        }
+
+        public DataDbContext(IHttpContextAccessor accessor, DbContextOptions options) : base(options)
+        {
+            _accessor = accessor;
+        }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
 
