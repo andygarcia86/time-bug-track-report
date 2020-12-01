@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Cors;
+﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using TimeBugTracker.Entities;
 
@@ -14,7 +10,6 @@ namespace TimeBugTracker.Controllers
     {
         // GET api/projects
         [HttpGet]
-        [EnableCors("AllowOrigin")]
         public ActionResult<IEnumerable<Project>> Get()
         {
             var projects = new List<Project>();

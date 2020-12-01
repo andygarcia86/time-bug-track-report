@@ -23,7 +23,7 @@ export default{
     };
   },
   async created(){
-    const result = await axios.get('https://localhost:44325/api/projects');
+    const result = await axios.get('/api/projects');
     const projects = result.data;
     this.projects = projects;
   }
