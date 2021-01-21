@@ -2,6 +2,14 @@
 
 The Time Bug tracking and Report is an application for the project management
 
+## Server
+
+The server side is built using .Net Core
+
+## Client
+
+The client side is built using Vue Js
+
 ## Demo
 
 The static demo application is an static application with some basic features of the real application.
