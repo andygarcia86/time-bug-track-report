@@ -1,0 +1,6 @@
+
+Server
+ 1. Connect API with DB using EF
+
+Client
+ 1. Create Vue components 
