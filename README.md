@@ -25,3 +25,5 @@ The static demo application is an static application with some basic features of
 ## Documentation
 
 Documentation [https://drive.google.com/drive/folders/1bwsi8doEUEiGBVmZWSOlD-82kjExFqZl?usp=sharing]
+
+## Github actions
