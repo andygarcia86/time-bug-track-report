@@ -1,15 +1,13 @@
-name: Print Hello World
+name: first
 
-on:
-  push:
-    branches: [ main ]
-    
+on: push
+
 jobs:
-  build:
-
+  job1:
+    name: First job
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Build the site in the jekyll/builder container
-      run: echo "Hello world"
+    - name: Step one
+      uses: actions/checkout@v2
+    - name: Step two
+      run: env | sort
