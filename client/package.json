@@ -28,7 +28,8 @@
     "test:unit": "vue-cli-service test:unit",
     "test:e2e": "vue-cli-service test:e2e",
     "clearCache": "jest --clearCache",
-    "release": "npm-run-all clearCache lint build test:unit test:e2e"
+    "release": "npm-run-all clearCache lint build test:unit test:e2e",
+    "start": "node server.js"
   },
   "dependencies": {
     "@coreui/coreui": "^3.2.0",
@@ -38,6 +39,8 @@
     "@coreui/vue-chartjs": "^1.0.5",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "express": "^4.17.1",
+    "serve-static": "^1.14.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
