@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIput+8UrFRM3Tya38POLcIqWg9XpAvWDrjK22y5ypoyKcskYZ8L6w6x0cACWWfu9LSpvOtaIFGDHouZwsZRQg==",
+  "success": true,
+  "projectFilePath": "D:\\Andy\\projects\\time-bug-track-report\\microservice-timetrack\\AraneaTimeTrack\\AraneaTimeTrack\\AraneaTimeTrack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
