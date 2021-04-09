@@ -27,3 +27,5 @@
 /server/TimeBugTracker.Tests/bin
 /server/TimeBugTracker.Domain/obj
 /server/TimeBugTracker.Domain/bin
+/microservice-timetrack/AraneaTimeTrack/bin
+/microservice-timetrack/AraneaTimeTrack/obj
